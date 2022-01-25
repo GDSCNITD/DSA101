@@ -1,5 +1,5 @@
 {
-  "projectName": "dsa101",
+  "projectName": "DSA101",
   "projectOwner": "GDSCNITD",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -9,5 +9,22 @@
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "Blakeinstein",
+      "name": "Blaine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42214598?v=4",
+      "profile": "https://blaine.is-a.dev",
+      "contributions": [
+        "infra",
+        "design",
+        "maintenance",
+        "mentoring",
+        "content",
+        "code"
+      ]
+    }
+  ]
 }
