@@ -1,17 +1,14 @@
 <img src="static/img/logo.svg" align="left" width="192px" height="192px"/>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 <img align="left" width="0" height="192px" hspace="10"/>
 
 > DSA for beginners.
 
-[![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/GDSCNITD/DSA101) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Release](https://github.com/GDSCNITD/DSA101/workflows/Release/badge.svg)](https://gdscnitd.github.io/dsa101)
-
-> A collective resource for problems in data structures and algorithms, for you and powered by you. Consider this a place to find, problems that others found interesting enough to share. If you did some to, we encourage you to send it in, in a pull request. :alien:
-
-<br>
-<br>
+[![Under Development](https://img.shields.io/badge/under-development-orange.svg?style=for-the-badge)](https://github.com/GDSCNITD/DSA101) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/) [![Release](https://img.shields.io/github/workflow/status/GDSCNITD/DSA101/Release?style=for-the-badge)](https://gdscnitd.github.io/dsa101)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=for-the-badge)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+---
+Collective resource for problems in data structures and algorithms, for you and powered by you. Consider this a place to find, problems that others found interesting enough to share. If you did some to, we encourage you to send it in, in a pull request. :alien:
 
 # Getting Started
 
