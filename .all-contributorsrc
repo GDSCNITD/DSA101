@@ -7,10 +7,8 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
-  "contributorsPerLine": 7,
-  "commitConvention": "none",
-  "skipCi": true,
+  "commit": true,
+  "commitConvention": "eslint",
   "contributors": [
     {
       "login": "Blakeinstein",
@@ -26,5 +24,6 @@
         "code"
       ]
     }
-  ]
+  ],
+  "contributorsPerLine": 7
 }

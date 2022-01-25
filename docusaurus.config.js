@@ -9,7 +9,7 @@ const config = {
   title: 'DSA-101',
   tagline: 'DSA for beginners',
   url: 'https://gdscnitd.github.io',
-  baseUrl: '/dsa101/',
+  baseUrl: '/DSA101/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
