@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Longest Increasing Subsequence
@@ -16,41 +16,41 @@ We will gradually process the numbers, first `a[0]`, then `a[1]`, etc, and in ea
 
 After processing all the elements of a[] the length of the desired subsequence is the largest `l` with `d[l] < ∞`.
 
-### C++ Code
+<details><summary>C++ Code</summary>
 
 ```cpp
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
-int lis(vector<int> const& a) {
+int lis(vector<int> const& a){
     int n = a.size();
     const int INF = 1e9;
     vector<int> d(n + 1, INF);
     d[0] = -INF;
-
-    for (int i = 0; i < n; i++) {
-        for (int j = 1; j <= n; j++) {
-            if (d[j - 1] < a[i] && a[i] < d[j])
+    for (int i = 0; i < n; i++){
+        for (int j = 1; j <= n; j++){
+            if (d[j - 1] < a[i] && a[i] < d[j]){
                 d[j] = a[i];
+            }
         }
     }
-
     int ans = 0;
-    for (int i = 0; i <= n; i++) {
+    for (int i = 0; i <= n; i++){
         if (d[i] < INF) ans = i;
     }
     return ans;
 }
-
-int main() {
+int main(){
     vector<int> a = {3, 2, 4, 5, 6, 9, 1};
     cout << "Length of the longest increasing subsequence: ";
     cout << lis(a);
+    return 0;
 }
 ```
-
-### Output
-
-```cpp
+## Output
+```txt
 Length of the longest increasing subsequence: 5
 ```
+
+</details>
