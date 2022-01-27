@@ -27,7 +27,7 @@ const config = {
           include: ['**/*.{md,mdx}'],
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/GDSCNITD/DSA101',
+          editUrl: 'https://github.com/GDSCNITD/DSA101/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
