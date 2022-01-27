@@ -23,7 +23,17 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "umangkumarr",
+      "name": "Umang Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76395302?v=4",
+      "profile": "https://github.com/umangkumarr",
+      "contributions": [
+        "content"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
