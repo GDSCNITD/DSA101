@@ -1,10 +1,17 @@
 ---
 sidebar_position: 1
 ---
-
 # Longest Increasing Subsequence
 
 We are given an array with `n` numbers: `a[0... n-1]` . The task is to find the longest, strictly increasing, subsequence in `a`.
+
+## Problem
+We highly engage you to try questions which require the same concept before looking at the solution.
+
+### Try this problem
+*Codechef* - https://www.codechef.com/problems/MERGEDLIS
+
+<details><summary>Click - to see solution</summary>
 
 ## Solution in `O(nlogn)` using dynamic programming and Binary search
 
@@ -16,7 +23,11 @@ We will gradually process the numbers, first `a[0]`, then `a[1]`, etc, and in ea
 
 After processing all the elements of a[] the length of the desired subsequence is the largest `l` with `d[l] < ∞`.
 
-<details><summary>C++ Code</summary>
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="cpp" label="C++">
 
 ```cpp
 #include <iostream>
@@ -48,6 +59,9 @@ int main(){
     return 0;
 }
 ```
+</TabItem>
+</Tabs>
+
 ## Output
 ```txt
 Length of the longest increasing subsequence: 5
