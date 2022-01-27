@@ -7,7 +7,7 @@
 [![Under Development](https://img.shields.io/badge/under-development-orange.svg?style=for-the-badge)](https://github.com/GDSCNITD/DSA101) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/) 
 
 [![Release](https://img.shields.io/github/workflow/status/GDSCNITD/DSA101/Release?style=for-the-badge)](https://gdscnitd.github.io/dsa101)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collective resource for problems in data structures and algorithms, for you and powered by you. Consider this a place to find, problems that others found interesting enough to share. If you did some to, we encourage you to send it in, in a pull request. :alien:
 
