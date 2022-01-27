@@ -7,7 +7,7 @@
 [![Under Development](https://img.shields.io/badge/under-development-orange.svg?style=for-the-badge)](https://github.com/GDSCNITD/DSA101) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/) 
 
 [![Release](https://img.shields.io/github/workflow/status/GDSCNITD/DSA101/Release?style=for-the-badge)](https://gdscnitd.github.io/dsa101)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=for-the-badge)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=for-the-badge)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collective resource for problems in data structures and algorithms, for you and powered by you. Consider this a place to find, problems that others found interesting enough to share. If you did some to, we encourage you to send it in, in a pull request. :alien:
 
@@ -52,6 +52,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://blaine.is-a.dev"><img src="https://avatars.githubusercontent.com/u/42214598?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Blaine</b></sub></a><br /><a href="#infra-Blakeinstein" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#design-Blakeinstein" title="Design">🎨</a> <a href="#maintenance-Blakeinstein" title="Maintenance">🚧</a> <a href="#mentoring-Blakeinstein" title="Mentoring">🧑‍🏫</a> <a href="#content-Blakeinstein" title="Content">🖋</a> <a href="https://github.com/GDSCNITD/DSA101/commits?author=Blakeinstein" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/umangkumarr"><img src="https://avatars.githubusercontent.com/u/76395302?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Umang Kumar</b></sub></a><br /><a href="#content-umangkumarr" title="Content">🖋</a></td>
   </tr>
 </table>
 
